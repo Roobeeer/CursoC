@@ -1,0 +1,15 @@
+# ninja log v6
+2	139	7526999189189963	CMakeFiles/Curso_C.dir/main.c.obj	499c0c2b24ab0695
+24	130	7527005921940895	CMakeFiles/variables.dir/variables.c.obj	b6bb6afbbfb41bce
+12	148	7526999189299977	CMakeFiles/Curso_C.dir/variables.c.obj	f39b2060f2e8453
+4	108	7527005921740900	CMakeFiles/aritm.dir/arithmopers.c.obj	537f01f0adebbc26
+3	149	7527003225438790	Curso_C.exe	2ef6d457935392ea
+25	171	7526999189419975	CMakeFiles/Curso_C.dir/arithmopers.c.obj	6213f8a83102161b
+38	172	7526999189549976	CMakeFiles/Curso_C.dir/userinput.c.obj	e4b927d36de96426
+14	118	7527005921830894	CMakeFiles/userinput.dir/userinput.c.obj	cd3e3053737def01
+1	253	7527007562480729	build.ninja	536c07b8949ec1d
+109	274	7527005922780894	aritm.exe	57cde355be38d7cb
+119	287	7527005922880894	userinput.exe	c7f741af1a66f6f7
+130	306	7527005923000896	variables.exe	7a80b81ab570134
+1	255	7527007562480729	build.ninja	536c07b8949ec1d
+3	148	7527007562850724	Curso_C.exe	3022a6bd0f3ff20

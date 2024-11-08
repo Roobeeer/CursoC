@@ -1,0 +1,3 @@
+D:/Clion/CLion 2024.2.3/projects/Curso C/cmake-build-debug/CMakeFiles/Curso_C.dir
+D:/Clion/CLion 2024.2.3/projects/Curso C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/CLion 2024.2.3/projects/Curso C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
