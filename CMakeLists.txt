@@ -18,5 +18,8 @@ add_executable(Curso_C Teoria/variables.c
         Teoria/StringFcs.c
         Teoria/Bucles.c
         Teoria/arrays.c
+        Teoria/EstructurasTypedef.c
+        Teoria/EstructurasArray.c
+        Teoria/enum.c
 )
 
