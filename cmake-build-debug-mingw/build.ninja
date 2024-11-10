@@ -157,6 +157,24 @@ build CMakeFiles/Curso_C.dir/Teoria/enum.c.obj: C_COMPILER__Curso_C_unscanned_De
   OBJECT_DIR = CMakeFiles\Curso_C.dir
   OBJECT_FILE_DIR = CMakeFiles\Curso_C.dir\Teoria
 
+build CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj: C_COMPILER__Curso_C_unscanned_Debug D$:/Clion/CLion$ 2024.2.3/projects/Curso$ C/Ejercicios/RandomNumbers.c || cmake_object_order_depends_target_Curso_C
+  DEP_FILE = CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Curso_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Curso_C.dir\Ejercicios
+
+build CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj: C_COMPILER__Curso_C_unscanned_Debug D$:/Clion/CLion$ 2024.2.3/projects/Curso$ C/Ejercicios/NumerosIguales.c || cmake_object_order_depends_target_Curso_C
+  DEP_FILE = CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Curso_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Curso_C.dir\Ejercicios
+
+build CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj: C_COMPILER__Curso_C_unscanned_Debug D$:/Clion/CLion$ 2024.2.3/projects/Curso$ C/Ejercicios/DosMatricesInversas.c || cmake_object_order_depends_target_Curso_C
+  DEP_FILE = CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Curso_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Curso_C.dir\Ejercicios
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Curso_C
@@ -165,7 +183,7 @@ build CMakeFiles/Curso_C.dir/Teoria/enum.c.obj: C_COMPILER__Curso_C_unscanned_De
 #############################################
 # Link the executable D:\Clion\CLion 2024.2.3\projects\Curso C\ejecutables\Curso_C.exe
 
-build D$:/Clion/CLion$ 2024.2.3/projects/Curso$ C/ejecutables/Curso_C.exe: C_EXECUTABLE_LINKER__Curso_C_Debug CMakeFiles/Curso_C.dir/Teoria/variables.c.obj CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj CMakeFiles/Curso_C.dir/Teoria/If.c.obj CMakeFiles/Curso_C.dir/Teoria/switch.c.obj CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj CMakeFiles/Curso_C.dir/Teoria/enum.c.obj
+build D$:/Clion/CLion$ 2024.2.3/projects/Curso$ C/ejecutables/Curso_C.exe: C_EXECUTABLE_LINKER__Curso_C_Debug CMakeFiles/Curso_C.dir/Teoria/variables.c.obj CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj CMakeFiles/Curso_C.dir/Teoria/If.c.obj CMakeFiles/Curso_C.dir/Teoria/switch.c.obj CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj CMakeFiles/Curso_C.dir/Teoria/enum.c.obj CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Curso_C.dir

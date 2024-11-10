@@ -21,5 +21,8 @@ add_executable(Curso_C Teoria/variables.c
         Teoria/EstructurasTypedef.c
         Teoria/EstructurasArray.c
         Teoria/enum.c
+        Ejercicios/RandomNumbers.c
+        Ejercicios/NumerosIguales.c
+        Ejercicios/DosMatricesInversas.c
 )
 

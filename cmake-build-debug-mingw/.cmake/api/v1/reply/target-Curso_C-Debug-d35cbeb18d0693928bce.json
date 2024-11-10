@@ -69,7 +69,10 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -123,7 +126,10 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -235,6 +241,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Teoria/enum.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Ejercicios/RandomNumbers.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Ejercicios/NumerosIguales.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Ejercicios/DosMatricesInversas.c",
 			"sourceGroupIndex" : 0
 		}
 	],
