@@ -24,5 +24,12 @@ add_executable(Curso_C Teoria/variables.c
         Ejercicios/RandomNumbers.c
         Ejercicios/NumerosIguales.c
         Ejercicios/DosMatricesInversas.c
+        Ejercicios/DosMatricesInversas.c
+        Teoria/Memorias.c
+        Teoria/Punteros.c
+        Ejercicios/EjerciciosDePunteros/AccesoVariable.c
+        Ejercicios/EjerciciosDePunteros/ContarString.c
+        Ejercicios/EjerciciosDePunteros/UsodeMalloc.c
+        Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c
 )
 
