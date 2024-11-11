@@ -31,5 +31,12 @@ add_executable(Curso_C Teoria/variables.c
         Ejercicios/EjerciciosDePunteros/ContarString.c
         Ejercicios/EjerciciosDePunteros/UsodeMalloc.c
         Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c
+        Ejercicios/EjsTema2/1.c
+        Ejercicios/EjsTema2/2.c
+        Ejercicios/EjsTema2/4.c
+        Ejercicios/EjsTema2/5.c
+        Ejercicios/EjsTema2/6.c
+        Ejercicios/EjsTema2/Asignaturas/NotasAlumno.h
+        Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c
 )
 

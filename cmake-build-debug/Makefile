@@ -320,6 +320,150 @@ Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.s
 .PHONY : Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.s
 
+Ejercicios/EjsTema2/1.obj: Ejercicios/EjsTema2/1.c.obj
+.PHONY : Ejercicios/EjsTema2/1.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj
+.PHONY : Ejercicios/EjsTema2/1.c.obj
+
+Ejercicios/EjsTema2/1.i: Ejercicios/EjsTema2/1.c.i
+.PHONY : Ejercicios/EjsTema2/1.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.i
+.PHONY : Ejercicios/EjsTema2/1.c.i
+
+Ejercicios/EjsTema2/1.s: Ejercicios/EjsTema2/1.c.s
+.PHONY : Ejercicios/EjsTema2/1.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.s
+.PHONY : Ejercicios/EjsTema2/1.c.s
+
+Ejercicios/EjsTema2/2.obj: Ejercicios/EjsTema2/2.c.obj
+.PHONY : Ejercicios/EjsTema2/2.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj
+.PHONY : Ejercicios/EjsTema2/2.c.obj
+
+Ejercicios/EjsTema2/2.i: Ejercicios/EjsTema2/2.c.i
+.PHONY : Ejercicios/EjsTema2/2.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.i
+.PHONY : Ejercicios/EjsTema2/2.c.i
+
+Ejercicios/EjsTema2/2.s: Ejercicios/EjsTema2/2.c.s
+.PHONY : Ejercicios/EjsTema2/2.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.s
+.PHONY : Ejercicios/EjsTema2/2.c.s
+
+Ejercicios/EjsTema2/4.obj: Ejercicios/EjsTema2/4.c.obj
+.PHONY : Ejercicios/EjsTema2/4.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj
+.PHONY : Ejercicios/EjsTema2/4.c.obj
+
+Ejercicios/EjsTema2/4.i: Ejercicios/EjsTema2/4.c.i
+.PHONY : Ejercicios/EjsTema2/4.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.i
+.PHONY : Ejercicios/EjsTema2/4.c.i
+
+Ejercicios/EjsTema2/4.s: Ejercicios/EjsTema2/4.c.s
+.PHONY : Ejercicios/EjsTema2/4.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.s
+.PHONY : Ejercicios/EjsTema2/4.c.s
+
+Ejercicios/EjsTema2/5.obj: Ejercicios/EjsTema2/5.c.obj
+.PHONY : Ejercicios/EjsTema2/5.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj
+.PHONY : Ejercicios/EjsTema2/5.c.obj
+
+Ejercicios/EjsTema2/5.i: Ejercicios/EjsTema2/5.c.i
+.PHONY : Ejercicios/EjsTema2/5.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.i
+.PHONY : Ejercicios/EjsTema2/5.c.i
+
+Ejercicios/EjsTema2/5.s: Ejercicios/EjsTema2/5.c.s
+.PHONY : Ejercicios/EjsTema2/5.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.s
+.PHONY : Ejercicios/EjsTema2/5.c.s
+
+Ejercicios/EjsTema2/6.obj: Ejercicios/EjsTema2/6.c.obj
+.PHONY : Ejercicios/EjsTema2/6.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj
+.PHONY : Ejercicios/EjsTema2/6.c.obj
+
+Ejercicios/EjsTema2/6.i: Ejercicios/EjsTema2/6.c.i
+.PHONY : Ejercicios/EjsTema2/6.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.i
+.PHONY : Ejercicios/EjsTema2/6.c.i
+
+Ejercicios/EjsTema2/6.s: Ejercicios/EjsTema2/6.c.s
+.PHONY : Ejercicios/EjsTema2/6.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.s
+.PHONY : Ejercicios/EjsTema2/6.c.s
+
+Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj: Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj
+.PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj
+.PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj
+
+Ejercicios/EjsTema2/Asignaturas/NotasAlumno.i: Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.i
+.PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.i
+.PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.i
+
+Ejercicios/EjsTema2/Asignaturas/NotasAlumno.s: Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
+.PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
+.PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
+
 Ejercicios/Hipotenusa.obj: Ejercicios/Hipotenusa.c.obj
 .PHONY : Ejercicios/Hipotenusa.obj
 
@@ -809,6 +953,24 @@ help:
 	@echo ... Ejercicios/EjerciciosDePunteros/UsodeMalloc.obj
 	@echo ... Ejercicios/EjerciciosDePunteros/UsodeMalloc.i
 	@echo ... Ejercicios/EjerciciosDePunteros/UsodeMalloc.s
+	@echo ... Ejercicios/EjsTema2/1.obj
+	@echo ... Ejercicios/EjsTema2/1.i
+	@echo ... Ejercicios/EjsTema2/1.s
+	@echo ... Ejercicios/EjsTema2/2.obj
+	@echo ... Ejercicios/EjsTema2/2.i
+	@echo ... Ejercicios/EjsTema2/2.s
+	@echo ... Ejercicios/EjsTema2/4.obj
+	@echo ... Ejercicios/EjsTema2/4.i
+	@echo ... Ejercicios/EjsTema2/4.s
+	@echo ... Ejercicios/EjsTema2/5.obj
+	@echo ... Ejercicios/EjsTema2/5.i
+	@echo ... Ejercicios/EjsTema2/5.s
+	@echo ... Ejercicios/EjsTema2/6.obj
+	@echo ... Ejercicios/EjsTema2/6.i
+	@echo ... Ejercicios/EjsTema2/6.s
+	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj
+	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.i
+	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.s
 	@echo ... Ejercicios/Hipotenusa.obj
 	@echo ... Ejercicios/Hipotenusa.i
 	@echo ... Ejercicios/Hipotenusa.s
