@@ -7,15 +7,14 @@ int main()
     int suma = 0;
     double promedio =0;
     int mayor, menor;
-
-    for (int i = 1; i < sizeof(numeros)/sizeof(int)+1; ++i)
+    int tamanyo = sizeof(numeros)/sizeof(int);
+    for (int i = 1; i < tamanyo+1; ++i)
     {
-        printf("Introduce el numero %d",i);
+        printf("Introduce el numero %d : ",i);
         scanf("%d",&numeros[i]);
         suma += numeros[i];
 
     }
-    int tamanyo = sizeof(numeros)/sizeof(int);
 
     promedio = suma/tamanyo;
 
@@ -26,7 +25,7 @@ int main()
         if(numeros[i] > mayor)
         {
             mayor = numeros[i];
-        }else if(numeros[i]<mayor)
+        }else if(numeros[i]>menor)
         {
             menor = numeros[i];
         }
