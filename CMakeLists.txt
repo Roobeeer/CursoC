@@ -38,5 +38,9 @@ add_executable(Curso_C Teoria/variables.c
         Ejercicios/EjsTema2/6.c
         Ejercicios/EjsTema2/Asignaturas/NotasAlumno.h
         Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c
+        EXAMENES/2223MatricesDiferentes.c
+        EXAMENES/2021P4.c
+        Ejercicios/ArrayOpsBasicas.c
+        Ejercicios/EjsTema2/MatrizTraspuesta.c
 )
 

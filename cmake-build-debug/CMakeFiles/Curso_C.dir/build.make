@@ -530,6 +530,62 @@ CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s"
 	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.s
 
+CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj: C:/Users/Rober/CLionProjects/CursoC/EXAMENES/2223MatricesDiferentes.c
+CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj -MF CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.obj.d -o CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.obj -c C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c
+
+CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.i"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c > CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.i
+
+CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.s"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c -o CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.s
+
+CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj: C:/Users/Rober/CLionProjects/CursoC/EXAMENES/2021P4.c
+CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj -MF CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.obj.d -o CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.obj -c C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c
+
+CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.i"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c > CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.i
+
+CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.s"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c -o CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.s
+
+CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/ArrayOpsBasicas.c
+CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c
+
+CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.i"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c > CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.i
+
+CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.s"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c -o CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.s
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/MatrizTraspuesta.c
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.i"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.i
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.s"
+	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.s
+
 # Object files for target Curso_C
 Curso_C_OBJECTS = \
 "CMakeFiles/Curso_C.dir/Teoria/variables.c.obj" \
@@ -564,7 +620,11 @@ Curso_C_OBJECTS = \
 "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj" \
 "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj" \
 "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj" \
-"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj"
+"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj" \
+"CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj" \
+"CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj" \
+"CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj" \
+"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj"
 
 # External object files for target Curso_C
 Curso_C_EXTERNAL_OBJECTS =
@@ -602,11 +662,15 @@ C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/build.make
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/linkLibs.rsp
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/objects1.rsp
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking C executable C:\Users\Rober\CLionProjects\CursoC\ejecutables\Curso_C.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking C executable C:\Users\Rober\CLionProjects\CursoC\ejecutables\Curso_C.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Curso_C.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

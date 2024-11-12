@@ -128,6 +128,78 @@ Curso_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/build
 .PHONY : Curso_C/fast
 
+EXAMENES/2021P4.obj: EXAMENES/2021P4.c.obj
+.PHONY : EXAMENES/2021P4.obj
+
+# target to build an object file
+EXAMENES/2021P4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj
+.PHONY : EXAMENES/2021P4.c.obj
+
+EXAMENES/2021P4.i: EXAMENES/2021P4.c.i
+.PHONY : EXAMENES/2021P4.i
+
+# target to preprocess a source file
+EXAMENES/2021P4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.i
+.PHONY : EXAMENES/2021P4.c.i
+
+EXAMENES/2021P4.s: EXAMENES/2021P4.c.s
+.PHONY : EXAMENES/2021P4.s
+
+# target to generate assembly for a file
+EXAMENES/2021P4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.s
+.PHONY : EXAMENES/2021P4.c.s
+
+EXAMENES/2223MatricesDiferentes.obj: EXAMENES/2223MatricesDiferentes.c.obj
+.PHONY : EXAMENES/2223MatricesDiferentes.obj
+
+# target to build an object file
+EXAMENES/2223MatricesDiferentes.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj
+.PHONY : EXAMENES/2223MatricesDiferentes.c.obj
+
+EXAMENES/2223MatricesDiferentes.i: EXAMENES/2223MatricesDiferentes.c.i
+.PHONY : EXAMENES/2223MatricesDiferentes.i
+
+# target to preprocess a source file
+EXAMENES/2223MatricesDiferentes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.i
+.PHONY : EXAMENES/2223MatricesDiferentes.c.i
+
+EXAMENES/2223MatricesDiferentes.s: EXAMENES/2223MatricesDiferentes.c.s
+.PHONY : EXAMENES/2223MatricesDiferentes.s
+
+# target to generate assembly for a file
+EXAMENES/2223MatricesDiferentes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.s
+.PHONY : EXAMENES/2223MatricesDiferentes.c.s
+
+Ejercicios/ArrayOpsBasicas.obj: Ejercicios/ArrayOpsBasicas.c.obj
+.PHONY : Ejercicios/ArrayOpsBasicas.obj
+
+# target to build an object file
+Ejercicios/ArrayOpsBasicas.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj
+.PHONY : Ejercicios/ArrayOpsBasicas.c.obj
+
+Ejercicios/ArrayOpsBasicas.i: Ejercicios/ArrayOpsBasicas.c.i
+.PHONY : Ejercicios/ArrayOpsBasicas.i
+
+# target to preprocess a source file
+Ejercicios/ArrayOpsBasicas.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.i
+.PHONY : Ejercicios/ArrayOpsBasicas.c.i
+
+Ejercicios/ArrayOpsBasicas.s: Ejercicios/ArrayOpsBasicas.c.s
+.PHONY : Ejercicios/ArrayOpsBasicas.s
+
+# target to generate assembly for a file
+Ejercicios/ArrayOpsBasicas.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.s
+.PHONY : Ejercicios/ArrayOpsBasicas.c.s
+
 Ejercicios/CalculadoraSimple.obj: Ejercicios/CalculadoraSimple.c.obj
 .PHONY : Ejercicios/CalculadoraSimple.obj
 
@@ -463,6 +535,30 @@ Ejercicios/EjsTema2/Asignaturas/NotasAlumno.s: Ejercicios/EjsTema2/Asignaturas/N
 Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
 .PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
+
+Ejercicios/EjsTema2/MatrizTraspuesta.obj: Ejercicios/EjsTema2/MatrizTraspuesta.c.obj
+.PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/MatrizTraspuesta.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj
+.PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.c.obj
+
+Ejercicios/EjsTema2/MatrizTraspuesta.i: Ejercicios/EjsTema2/MatrizTraspuesta.c.i
+.PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/MatrizTraspuesta.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.i
+.PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.c.i
+
+Ejercicios/EjsTema2/MatrizTraspuesta.s: Ejercicios/EjsTema2/MatrizTraspuesta.c.s
+.PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/MatrizTraspuesta.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.s
+.PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.c.s
 
 Ejercicios/Hipotenusa.obj: Ejercicios/Hipotenusa.c.obj
 .PHONY : Ejercicios/Hipotenusa.obj
@@ -929,6 +1025,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Curso_C
+	@echo ... EXAMENES/2021P4.obj
+	@echo ... EXAMENES/2021P4.i
+	@echo ... EXAMENES/2021P4.s
+	@echo ... EXAMENES/2223MatricesDiferentes.obj
+	@echo ... EXAMENES/2223MatricesDiferentes.i
+	@echo ... EXAMENES/2223MatricesDiferentes.s
+	@echo ... Ejercicios/ArrayOpsBasicas.obj
+	@echo ... Ejercicios/ArrayOpsBasicas.i
+	@echo ... Ejercicios/ArrayOpsBasicas.s
 	@echo ... Ejercicios/CalculadoraSimple.obj
 	@echo ... Ejercicios/CalculadoraSimple.i
 	@echo ... Ejercicios/CalculadoraSimple.s
@@ -971,6 +1076,9 @@ help:
 	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj
 	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.i
 	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.s
+	@echo ... Ejercicios/EjsTema2/MatrizTraspuesta.obj
+	@echo ... Ejercicios/EjsTema2/MatrizTraspuesta.i
+	@echo ... Ejercicios/EjsTema2/MatrizTraspuesta.s
 	@echo ... Ejercicios/Hipotenusa.obj
 	@echo ... Ejercicios/Hipotenusa.i
 	@echo ... Ejercicios/Hipotenusa.s

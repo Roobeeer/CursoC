@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/Rober/CLionProjects/CursoC/EXAMENES/2021P4.c" "CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj" "gcc" "CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj.d"
+  "C:/Users/Rober/CLionProjects/CursoC/EXAMENES/2223MatricesDiferentes.c" "CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj" "gcc" "CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj.d"
+  "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/ArrayOpsBasicas.c" "CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/CalculadoraSimple.c" "CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/CircunferenciaCirculo.c" "CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/ConversionTemperatura.c" "CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj.d"
@@ -22,6 +25,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/5.c" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/6.c" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj.d"
+  "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/MatrizTraspuesta.c" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/Hipotenusa.c" "CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/NameDateNumber.c" "CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj.d"
   "C:/Users/Rober/CLionProjects/CursoC/Ejercicios/NumerosIguales.c" "CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj" "gcc" "CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj.d"
