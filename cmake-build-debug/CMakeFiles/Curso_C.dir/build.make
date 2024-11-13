@@ -72,519 +72,575 @@ CMakeFiles/Curso_C.dir/Teoria/variables.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/variables.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/variables.c
 CMakeFiles/Curso_C.dir/Teoria/variables.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Curso_C.dir/Teoria/variables.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/variables.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\variables.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\variables.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\variables.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/variables.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\variables.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\variables.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\variables.c
 
 CMakeFiles/Curso_C.dir/Teoria/variables.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/variables.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\variables.c > CMakeFiles\Curso_C.dir\Teoria\variables.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\variables.c > CMakeFiles\Curso_C.dir\Teoria\variables.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/variables.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/variables.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\variables.c -o CMakeFiles\Curso_C.dir\Teoria\variables.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\variables.c -o CMakeFiles\Curso_C.dir\Teoria\variables.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/NameDateNumber.c
 CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NameDateNumber.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NameDateNumber.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NameDateNumber.c > CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NameDateNumber.c > CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/NameDateNumber.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NameDateNumber.c -o CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NameDateNumber.c -o CMakeFiles\Curso_C.dir\Ejercicios\NameDateNumber.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/MathFuncs.c
 CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\MathFuncs.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\MathFuncs.c
 
 CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\MathFuncs.c > CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\MathFuncs.c > CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/MathFuncs.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\MathFuncs.c -o CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\MathFuncs.c -o CMakeFiles\Curso_C.dir\Teoria\MathFuncs.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/CircunferenciaCirculo.c
 CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CircunferenciaCirculo.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CircunferenciaCirculo.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CircunferenciaCirculo.c > CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CircunferenciaCirculo.c > CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/CircunferenciaCirculo.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CircunferenciaCirculo.c -o CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CircunferenciaCirculo.c -o CMakeFiles\Curso_C.dir\Ejercicios\CircunferenciaCirculo.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/Hipotenusa.c
 CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\Hipotenusa.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\Hipotenusa.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\Hipotenusa.c > CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\Hipotenusa.c > CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/Hipotenusa.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\Hipotenusa.c -o CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\Hipotenusa.c -o CMakeFiles\Curso_C.dir\Ejercicios\Hipotenusa.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/If.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/If.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/If.c
 CMakeFiles/Curso_C.dir/Teoria/If.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Curso_C.dir/Teoria/If.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/If.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\If.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\If.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\If.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/If.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\If.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\If.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\If.c
 
 CMakeFiles/Curso_C.dir/Teoria/If.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/If.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\If.c > CMakeFiles\Curso_C.dir\Teoria\If.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\If.c > CMakeFiles\Curso_C.dir\Teoria\If.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/If.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/If.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\If.c -o CMakeFiles\Curso_C.dir\Teoria\If.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\If.c -o CMakeFiles\Curso_C.dir\Teoria\If.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/switch.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/switch.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/switch.c
 CMakeFiles/Curso_C.dir/Teoria/switch.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Curso_C.dir/Teoria/switch.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/switch.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\switch.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\switch.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\switch.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/switch.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\switch.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\switch.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\switch.c
 
 CMakeFiles/Curso_C.dir/Teoria/switch.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/switch.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\switch.c > CMakeFiles\Curso_C.dir\Teoria\switch.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\switch.c > CMakeFiles\Curso_C.dir\Teoria\switch.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/switch.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/switch.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\switch.c -o CMakeFiles\Curso_C.dir\Teoria\switch.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\switch.c -o CMakeFiles\Curso_C.dir\Teoria\switch.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/ConversionTemperatura.c
 CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ConversionTemperatura.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ConversionTemperatura.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ConversionTemperatura.c > CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ConversionTemperatura.c > CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/ConversionTemperatura.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ConversionTemperatura.c -o CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ConversionTemperatura.c -o CMakeFiles\Curso_C.dir\Ejercicios\ConversionTemperatura.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/CalculadoraSimple.c
 CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CalculadoraSimple.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CalculadoraSimple.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CalculadoraSimple.c > CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CalculadoraSimple.c > CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/CalculadoraSimple.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CalculadoraSimple.c -o CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\CalculadoraSimple.c -o CMakeFiles\Curso_C.dir\Ejercicios\CalculadoraSimple.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/OperadoresLogicos.c
 CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\OperadoresLogicos.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\OperadoresLogicos.c
 
 CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\OperadoresLogicos.c > CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\OperadoresLogicos.c > CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/OperadoresLogicos.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\OperadoresLogicos.c -o CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\OperadoresLogicos.c -o CMakeFiles\Curso_C.dir\Teoria\OperadoresLogicos.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/Funciones.c
 CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Funciones.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Funciones.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Funciones.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Funciones.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Funciones.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Funciones.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Funciones.c
 
 CMakeFiles/Curso_C.dir/Teoria/Funciones.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/Funciones.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Funciones.c > CMakeFiles\Curso_C.dir\Teoria\Funciones.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Funciones.c > CMakeFiles\Curso_C.dir\Teoria\Funciones.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/Funciones.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/Funciones.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Funciones.c -o CMakeFiles\Curso_C.dir\Teoria\Funciones.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Funciones.c -o CMakeFiles\Curso_C.dir\Teoria\Funciones.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/Ternarias.c
 CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Ternarias.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Ternarias.c
 
 CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Ternarias.c > CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Ternarias.c > CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/Ternarias.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Ternarias.c -o CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Ternarias.c -o CMakeFiles\Curso_C.dir\Teoria\Ternarias.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/StringFcs.c
 CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\StringFcs.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\StringFcs.c
 
 CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\StringFcs.c > CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\StringFcs.c > CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/StringFcs.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\StringFcs.c -o CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\StringFcs.c -o CMakeFiles\Curso_C.dir\Teoria\StringFcs.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/Bucles.c
 CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Bucles.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Bucles.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Bucles.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Bucles.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Bucles.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Bucles.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Bucles.c
 
 CMakeFiles/Curso_C.dir/Teoria/Bucles.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/Bucles.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Bucles.c > CMakeFiles\Curso_C.dir\Teoria\Bucles.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Bucles.c > CMakeFiles\Curso_C.dir\Teoria\Bucles.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/Bucles.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/Bucles.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Bucles.c -o CMakeFiles\Curso_C.dir\Teoria\Bucles.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Bucles.c -o CMakeFiles\Curso_C.dir\Teoria\Bucles.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/arrays.c
 CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\arrays.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\arrays.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\arrays.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/arrays.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\arrays.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\arrays.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\arrays.c
 
 CMakeFiles/Curso_C.dir/Teoria/arrays.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/arrays.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\arrays.c > CMakeFiles\Curso_C.dir\Teoria\arrays.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\arrays.c > CMakeFiles\Curso_C.dir\Teoria\arrays.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/arrays.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/arrays.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\arrays.c -o CMakeFiles\Curso_C.dir\Teoria\arrays.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\arrays.c -o CMakeFiles\Curso_C.dir\Teoria\arrays.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/EstructurasTypedef.c
 CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasTypedef.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasTypedef.c
 
 CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasTypedef.c > CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasTypedef.c > CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/EstructurasTypedef.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasTypedef.c -o CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasTypedef.c -o CMakeFiles\Curso_C.dir\Teoria\EstructurasTypedef.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/EstructurasArray.c
 CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasArray.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasArray.c
 
 CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasArray.c > CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasArray.c > CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/EstructurasArray.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasArray.c -o CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\EstructurasArray.c -o CMakeFiles\Curso_C.dir\Teoria\EstructurasArray.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/enum.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/enum.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/enum.c
 CMakeFiles/Curso_C.dir/Teoria/enum.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Curso_C.dir/Teoria/enum.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/enum.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\enum.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\enum.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\enum.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/enum.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\enum.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\enum.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\enum.c
 
 CMakeFiles/Curso_C.dir/Teoria/enum.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/enum.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\enum.c > CMakeFiles\Curso_C.dir\Teoria\enum.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\enum.c > CMakeFiles\Curso_C.dir\Teoria\enum.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/enum.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/enum.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\enum.c -o CMakeFiles\Curso_C.dir\Teoria\enum.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\enum.c -o CMakeFiles\Curso_C.dir\Teoria\enum.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/RandomNumbers.c
 CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\RandomNumbers.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\RandomNumbers.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\RandomNumbers.c > CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\RandomNumbers.c > CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/RandomNumbers.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\RandomNumbers.c -o CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\RandomNumbers.c -o CMakeFiles\Curso_C.dir\Ejercicios\RandomNumbers.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/NumerosIguales.c
 CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NumerosIguales.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NumerosIguales.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NumerosIguales.c > CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NumerosIguales.c > CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/NumerosIguales.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NumerosIguales.c -o CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\NumerosIguales.c -o CMakeFiles\Curso_C.dir\Ejercicios\NumerosIguales.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/DosMatricesInversas.c
 CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\DosMatricesInversas.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\DosMatricesInversas.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\DosMatricesInversas.c > CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\DosMatricesInversas.c > CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/DosMatricesInversas.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\DosMatricesInversas.c -o CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\DosMatricesInversas.c -o CMakeFiles\Curso_C.dir\Ejercicios\DosMatricesInversas.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/Memorias.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/Memorias.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/Memorias.c
 CMakeFiles/Curso_C.dir/Teoria/Memorias.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/Curso_C.dir/Teoria/Memorias.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Memorias.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Memorias.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Memorias.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Memorias.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Memorias.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Memorias.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Memorias.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Memorias.c
 
 CMakeFiles/Curso_C.dir/Teoria/Memorias.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/Memorias.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Memorias.c > CMakeFiles\Curso_C.dir\Teoria\Memorias.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Memorias.c > CMakeFiles\Curso_C.dir\Teoria\Memorias.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/Memorias.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/Memorias.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Memorias.c -o CMakeFiles\Curso_C.dir\Teoria\Memorias.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Memorias.c -o CMakeFiles\Curso_C.dir\Teoria\Memorias.c.s
 
 CMakeFiles/Curso_C.dir/Teoria/Punteros.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Teoria/Punteros.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/Punteros.c
 CMakeFiles/Curso_C.dir/Teoria/Punteros.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Curso_C.dir/Teoria/Punteros.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Punteros.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Punteros.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Punteros.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Punteros.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/Punteros.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\Punteros.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\Punteros.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\Punteros.c
 
 CMakeFiles/Curso_C.dir/Teoria/Punteros.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/Punteros.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Punteros.c > CMakeFiles\Curso_C.dir\Teoria\Punteros.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\Punteros.c > CMakeFiles\Curso_C.dir\Teoria\Punteros.c.i
 
 CMakeFiles/Curso_C.dir/Teoria/Punteros.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/Punteros.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Punteros.c -o CMakeFiles\Curso_C.dir\Teoria\Punteros.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\Punteros.c -o CMakeFiles\Curso_C.dir\Teoria\Punteros.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjerciciosDePunteros/AccesoVariable.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\AccesoVariable.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\AccesoVariable.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\AccesoVariable.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\AccesoVariable.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/AccesoVariable.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\AccesoVariable.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\AccesoVariable.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\AccesoVariable.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjerciciosDePunteros/ContarString.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\ContarString.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\ContarString.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\ContarString.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\ContarString.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/ContarString.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\ContarString.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\ContarString.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\ContarString.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/UsodeMalloc.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\UsodeMalloc.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c > CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjerciciosDePunteros/SumarArrayConPtr.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjerciciosDePunteros\SumarArrayConPtr.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/1.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\1.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\1.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\1.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\1.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/1.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\1.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\1.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\1.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/2.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\2.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\2.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\2.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\2.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/2.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\2.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\2.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\2.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/4.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\4.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\4.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\4.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\4.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/4.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\4.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\4.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\4.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/5.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\5.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\5.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\5.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\5.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/5.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\5.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\5.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\5.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/6.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\6.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\6.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\6.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\6.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\6.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\6.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\6.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\Asignaturas\NotasAlumno.c.s
 
 CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj: C:/Users/Rober/CLionProjects/CursoC/EXAMENES/2223MatricesDiferentes.c
 CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj -MF CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.obj.d -o CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.obj -c C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj -MF CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.obj.d -o CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.obj -c C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c
 
 CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c > CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c > CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.i
 
 CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c -o CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2223MatricesDiferentes.c -o CMakeFiles\Curso_C.dir\EXAMENES\2223MatricesDiferentes.c.s
 
 CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj: C:/Users/Rober/CLionProjects/CursoC/EXAMENES/2021P4.c
 CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj -MF CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.obj.d -o CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.obj -c C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj -MF CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.obj.d -o CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.obj -c C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c
 
 CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c > CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c > CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.i
 
 CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c -o CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\EXAMENES\2021P4.c -o CMakeFiles\Curso_C.dir\EXAMENES\2021P4.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/ArrayOpsBasicas.c
 CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c > CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c > CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c -o CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\ArrayOpsBasicas.c -o CMakeFiles\Curso_C.dir\Ejercicios\ArrayOpsBasicas.c.s
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj: CMakeFiles/Curso_C.dir/flags.make
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/MatrizTraspuesta.c
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.i"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.i
 
 CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.s"
-	C:\msys64\mingw64\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MatrizTraspuesta.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MatrizTraspuesta.c.s
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/ArrayPunteros.c
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\ArrayPunteros.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\ArrayPunteros.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\ArrayPunteros.c
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\ArrayPunteros.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\ArrayPunteros.c.i
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\ArrayPunteros.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\ArrayPunteros.c.s
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/MallocFreeMedia.c
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MallocFreeMedia.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MallocFreeMedia.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MallocFreeMedia.c
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MallocFreeMedia.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MallocFreeMedia.c.i
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\MallocFreeMedia.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\MallocFreeMedia.c.s
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj: C:/Users/Rober/CLionProjects/CursoC/Ejercicios/EjsTema2/StructConH.c
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj -MF CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\StructConH.c.obj.d -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\StructConH.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\StructConH.c
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\StructConH.c > CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\StructConH.c.i
+
+CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Ejercicios\EjsTema2\StructConH.c -o CMakeFiles\Curso_C.dir\Ejercicios\EjsTema2\StructConH.c.s
+
+CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj: CMakeFiles/Curso_C.dir/flags.make
+CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj: C:/Users/Rober/CLionProjects/CursoC/Teoria/ErAdri.c
+CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj: CMakeFiles/Curso_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj -MF CMakeFiles\Curso_C.dir\Teoria\ErAdri.c.obj.d -o CMakeFiles\Curso_C.dir\Teoria\ErAdri.c.obj -c C:\Users\Rober\CLionProjects\CursoC\Teoria\ErAdri.c
+
+CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Rober\CLionProjects\CursoC\Teoria\ErAdri.c > CMakeFiles\Curso_C.dir\Teoria\ErAdri.c.i
+
+CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Rober\CLionProjects\CursoC\Teoria\ErAdri.c -o CMakeFiles\Curso_C.dir\Teoria\ErAdri.c.s
 
 # Object files for target Curso_C
 Curso_C_OBJECTS = \
@@ -624,7 +680,11 @@ Curso_C_OBJECTS = \
 "CMakeFiles/Curso_C.dir/EXAMENES/2223MatricesDiferentes.c.obj" \
 "CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj" \
 "CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj" \
-"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj"
+"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj" \
+"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj" \
+"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj" \
+"CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj" \
+"CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj"
 
 # External object files for target Curso_C
 Curso_C_EXTERNAL_OBJECTS =
@@ -666,11 +726,15 @@ C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/EXAMENES/2021P4.c.obj
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/ArrayOpsBasicas.c.obj
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj
+C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/build.make
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/linkLibs.rsp
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/objects1.rsp
 C:/Users/Rober/CLionProjects/CursoC/ejecutables/Curso_C.exe: CMakeFiles/Curso_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking C executable C:\Users\Rober\CLionProjects\CursoC\ejecutables\Curso_C.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Rober\CLionProjects\CursoC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Linking C executable C:\Users\Rober\CLionProjects\CursoC\ejecutables\Curso_C.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Curso_C.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

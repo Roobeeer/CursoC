@@ -42,5 +42,10 @@ add_executable(Curso_C Teoria/variables.c
         EXAMENES/2021P4.c
         Ejercicios/ArrayOpsBasicas.c
         Ejercicios/EjsTema2/MatrizTraspuesta.c
+        Ejercicios/EjsTema2/ArrayPunteros.c
+        Ejercicios/EjsTema2/MallocFreeMedia.c
+        Ejercicios/EjsTema2/StructConH.c
+        Ejercicios/EjsTema2/StructConH.h
+        Teoria/ErAdri.c
 )
 

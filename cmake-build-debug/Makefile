@@ -512,6 +512,30 @@ Ejercicios/EjsTema2/6.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/6.c.s
 .PHONY : Ejercicios/EjsTema2/6.c.s
 
+Ejercicios/EjsTema2/ArrayPunteros.obj: Ejercicios/EjsTema2/ArrayPunteros.c.obj
+.PHONY : Ejercicios/EjsTema2/ArrayPunteros.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/ArrayPunteros.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.obj
+.PHONY : Ejercicios/EjsTema2/ArrayPunteros.c.obj
+
+Ejercicios/EjsTema2/ArrayPunteros.i: Ejercicios/EjsTema2/ArrayPunteros.c.i
+.PHONY : Ejercicios/EjsTema2/ArrayPunteros.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/ArrayPunteros.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.i
+.PHONY : Ejercicios/EjsTema2/ArrayPunteros.c.i
+
+Ejercicios/EjsTema2/ArrayPunteros.s: Ejercicios/EjsTema2/ArrayPunteros.c.s
+.PHONY : Ejercicios/EjsTema2/ArrayPunteros.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/ArrayPunteros.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/ArrayPunteros.c.s
+.PHONY : Ejercicios/EjsTema2/ArrayPunteros.c.s
+
 Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj: Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.obj
 .PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj
 
@@ -536,6 +560,30 @@ Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
 .PHONY : Ejercicios/EjsTema2/Asignaturas/NotasAlumno.c.s
 
+Ejercicios/EjsTema2/MallocFreeMedia.obj: Ejercicios/EjsTema2/MallocFreeMedia.c.obj
+.PHONY : Ejercicios/EjsTema2/MallocFreeMedia.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/MallocFreeMedia.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.obj
+.PHONY : Ejercicios/EjsTema2/MallocFreeMedia.c.obj
+
+Ejercicios/EjsTema2/MallocFreeMedia.i: Ejercicios/EjsTema2/MallocFreeMedia.c.i
+.PHONY : Ejercicios/EjsTema2/MallocFreeMedia.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/MallocFreeMedia.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.i
+.PHONY : Ejercicios/EjsTema2/MallocFreeMedia.c.i
+
+Ejercicios/EjsTema2/MallocFreeMedia.s: Ejercicios/EjsTema2/MallocFreeMedia.c.s
+.PHONY : Ejercicios/EjsTema2/MallocFreeMedia.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/MallocFreeMedia.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MallocFreeMedia.c.s
+.PHONY : Ejercicios/EjsTema2/MallocFreeMedia.c.s
+
 Ejercicios/EjsTema2/MatrizTraspuesta.obj: Ejercicios/EjsTema2/MatrizTraspuesta.c.obj
 .PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.obj
 
@@ -559,6 +607,30 @@ Ejercicios/EjsTema2/MatrizTraspuesta.s: Ejercicios/EjsTema2/MatrizTraspuesta.c.s
 Ejercicios/EjsTema2/MatrizTraspuesta.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/MatrizTraspuesta.c.s
 .PHONY : Ejercicios/EjsTema2/MatrizTraspuesta.c.s
+
+Ejercicios/EjsTema2/StructConH.obj: Ejercicios/EjsTema2/StructConH.c.obj
+.PHONY : Ejercicios/EjsTema2/StructConH.obj
+
+# target to build an object file
+Ejercicios/EjsTema2/StructConH.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.obj
+.PHONY : Ejercicios/EjsTema2/StructConH.c.obj
+
+Ejercicios/EjsTema2/StructConH.i: Ejercicios/EjsTema2/StructConH.c.i
+.PHONY : Ejercicios/EjsTema2/StructConH.i
+
+# target to preprocess a source file
+Ejercicios/EjsTema2/StructConH.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.i
+.PHONY : Ejercicios/EjsTema2/StructConH.c.i
+
+Ejercicios/EjsTema2/StructConH.s: Ejercicios/EjsTema2/StructConH.c.s
+.PHONY : Ejercicios/EjsTema2/StructConH.s
+
+# target to generate assembly for a file
+Ejercicios/EjsTema2/StructConH.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Ejercicios/EjsTema2/StructConH.c.s
+.PHONY : Ejercicios/EjsTema2/StructConH.c.s
 
 Ejercicios/Hipotenusa.obj: Ejercicios/Hipotenusa.c.obj
 .PHONY : Ejercicios/Hipotenusa.obj
@@ -679,6 +751,30 @@ Teoria/Bucles.s: Teoria/Bucles.c.s
 Teoria/Bucles.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Teoria/Bucles.c.s
 .PHONY : Teoria/Bucles.c.s
+
+Teoria/ErAdri.obj: Teoria/ErAdri.c.obj
+.PHONY : Teoria/ErAdri.obj
+
+# target to build an object file
+Teoria/ErAdri.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.obj
+.PHONY : Teoria/ErAdri.c.obj
+
+Teoria/ErAdri.i: Teoria/ErAdri.c.i
+.PHONY : Teoria/ErAdri.i
+
+# target to preprocess a source file
+Teoria/ErAdri.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.i
+.PHONY : Teoria/ErAdri.c.i
+
+Teoria/ErAdri.s: Teoria/ErAdri.c.s
+.PHONY : Teoria/ErAdri.s
+
+# target to generate assembly for a file
+Teoria/ErAdri.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Curso_C.dir\build.make CMakeFiles/Curso_C.dir/Teoria/ErAdri.c.s
+.PHONY : Teoria/ErAdri.c.s
 
 Teoria/EstructurasArray.obj: Teoria/EstructurasArray.c.obj
 .PHONY : Teoria/EstructurasArray.obj
@@ -1073,12 +1169,21 @@ help:
 	@echo ... Ejercicios/EjsTema2/6.obj
 	@echo ... Ejercicios/EjsTema2/6.i
 	@echo ... Ejercicios/EjsTema2/6.s
+	@echo ... Ejercicios/EjsTema2/ArrayPunteros.obj
+	@echo ... Ejercicios/EjsTema2/ArrayPunteros.i
+	@echo ... Ejercicios/EjsTema2/ArrayPunteros.s
 	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.obj
 	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.i
 	@echo ... Ejercicios/EjsTema2/Asignaturas/NotasAlumno.s
+	@echo ... Ejercicios/EjsTema2/MallocFreeMedia.obj
+	@echo ... Ejercicios/EjsTema2/MallocFreeMedia.i
+	@echo ... Ejercicios/EjsTema2/MallocFreeMedia.s
 	@echo ... Ejercicios/EjsTema2/MatrizTraspuesta.obj
 	@echo ... Ejercicios/EjsTema2/MatrizTraspuesta.i
 	@echo ... Ejercicios/EjsTema2/MatrizTraspuesta.s
+	@echo ... Ejercicios/EjsTema2/StructConH.obj
+	@echo ... Ejercicios/EjsTema2/StructConH.i
+	@echo ... Ejercicios/EjsTema2/StructConH.s
 	@echo ... Ejercicios/Hipotenusa.obj
 	@echo ... Ejercicios/Hipotenusa.i
 	@echo ... Ejercicios/Hipotenusa.s
@@ -1094,6 +1199,9 @@ help:
 	@echo ... Teoria/Bucles.obj
 	@echo ... Teoria/Bucles.i
 	@echo ... Teoria/Bucles.s
+	@echo ... Teoria/ErAdri.obj
+	@echo ... Teoria/ErAdri.i
+	@echo ... Teoria/ErAdri.s
 	@echo ... Teoria/EstructurasArray.obj
 	@echo ... Teoria/EstructurasArray.i
 	@echo ... Teoria/EstructurasArray.s
